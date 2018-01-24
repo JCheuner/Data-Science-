@@ -7,4 +7,4 @@ ggplot(LiveSessionData, aes(x=income,y=neurotic))+
   ggtitle("Didnt see a sleep column")
 
 
-
+# Class project
